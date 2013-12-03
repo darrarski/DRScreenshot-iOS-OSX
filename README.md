@@ -1,5 +1,5 @@
-DRScreenshot iOS & OSX Library
-==============================
+DRScreenshot for iOS & OSX
+==========================
 
 Helpful categories for taking screenshots. iOS version is currently under construction, not available.
 
